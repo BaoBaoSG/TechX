@@ -8,7 +8,7 @@ EN: This project automates the login functionality test for a website using Sele
 VI: Dự án này tự động hóa bài kiểm tra chức năng đăng nhập cho một trang web sử dụng Selenium WebDriver và JUnit. Script bao gồm chụp màn hình sau khi đăng nhập thành công và ghi lại các bước kiểm tra bằng Log4j.
 
 ## Requirement / Yêu Cầu
-
+- IntelliJ communication
 - Java Development Kit (JDK)
 - Maven
 - Internet connection / Kết nối Internet
@@ -67,6 +67,6 @@ TechXSelenium/
 
 ## Contact / Liên Hệ
 
-EN: For any questions or support, please contact BaoBaoSG.
+EN: For any questions or support, please contact via my email baotran86102@gmail.com
 
-VI: Để có bất kỳ câu hỏi hoặc hỗ trợ nào, vui lòng liên hệ BaoBaoSG.
+VI: Để có bất kỳ câu hỏi hoặc hỗ trợ nào, vui lòng liên hệ qua email của tôi baotran86102@gmail.com
